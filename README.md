@@ -1,28 +1,31 @@
 # Unity Game Template Reskin & Publishing Guide
 
-A practical collection of checklists and guides for developers who want to choose, reskin, optimize, and publish a Unity game template.
-
-Whether you're starting a new mobile game project or working with an existing Unity template, this repository provides a structured workflow for evaluating the project, customizing its assets, preparing it for mobile devices, and getting it ready for publication.
+A practical collection of guides and checklists for developers who want to choose, reskin, optimize, and publish Unity game templates.
 
 ## What's Included
 
-- Unity game template selection checklist
-- Reskin workflow
-- Asset replacement checklist
-- Mobile optimization considerations
-- Publishing preparation checklist
-- Useful Unity development resources
+### Guides
+
+- [Choosing a Unity Game Template](guides/choosing-a-unity-template.md)
+- [Unity Game Template Reskin Workflow](guides/reskin-workflow.md)
+- [Mobile Optimization for Unity Game Templates](guides/mobile-optimization.md)
+
+### Checklists
+
+- [Unity Template Selection Checklist](checklists/template-selection-checklist.md)
+- [Unity Game Publishing Checklist](checklists/publishing-checklist.md)
 
 ## Why Use a Unity Game Template?
 
 A well-structured Unity template can reduce development time by providing an existing gameplay system, UI framework, scenes, scripts, and supporting assets.
 
-However, choosing the wrong template can create problems later.
+However, choosing the wrong template can create additional development and maintenance work.
 
 Before starting a project, evaluate:
 
 - Unity version compatibility
 - Code quality
+- Project structure
 - Documentation
 - Platform support
 - Asset licensing
@@ -30,28 +33,27 @@ Before starting a project, evaluate:
 - Performance
 - Monetization support
 - Build configuration
-- Developer support
 
-## Template Selection Checklist
+## Template Selection
 
 Before starting a reskin project, verify:
 
-- [ ] The Unity version is compatible with your workflow
-- [ ] The project opens without major errors
+- [ ] Unity version is compatible
+- [ ] Project opens without major errors
 - [ ] Scripts are organized clearly
 - [ ] Important systems are documented
 - [ ] Assets can legally be modified
-- [ ] The template supports your target platform
+- [ ] Template supports the target platform
 - [ ] Mobile performance is acceptable
 - [ ] UI can be customized
 - [ ] Monetization can be integrated
-- [ ] The project can be built successfully
+- [ ] Project can be built successfully
 
-See the complete checklist:
+See the complete:
 
-[`checklists/template-selection-checklist.md`](checklists/template-selection-checklist.md)
+[Template Selection Checklist](checklists/template-selection-checklist.md)
 
-## Basic Reskin Workflow
+## Reskin Workflow
 
 A typical Unity template reskin can follow this process:
 
@@ -64,20 +66,20 @@ A typical Unity template reskin can follow this process:
 7. Modify colors and visual style
 8. Update sounds and music
 9. Customize gameplay where required
-10. Test all major systems
+10. Test major systems
 11. Optimize performance
 12. Prepare store assets
 13. Create production builds
 14. Test on target devices
-15. Publish the final game
+15. Prepare the final release
 
-More details:
+See the detailed:
 
-[`guides/reskin-workflow.md`](guides/reskin-workflow.md)
+[Reskin Workflow Guide](guides/reskin-workflow.md)
 
 ## Mobile Optimization
 
-A template that works well in the Unity Editor may still require optimization before being released on mobile devices.
+A template that performs well in the Unity Editor may still require optimization for mobile devices.
 
 Important areas include:
 
@@ -94,11 +96,11 @@ Important areas include:
 
 See:
 
-[`guides/mobile-optimization.md`](guides/mobile-optimization.md)
+[Mobile Optimization Guide](guides/mobile-optimization.md)
 
 ## Publishing Preparation
 
-Before publishing a Unity game, check:
+Before publishing a Unity game, review:
 
 - [ ] Production build tested
 - [ ] Application identifier configured
@@ -111,13 +113,13 @@ Before publishing a Unity game, check:
 - [ ] Analytics tested
 - [ ] Release build tested on real devices
 
-See:
+See the complete:
 
-[`checklists/publishing-checklist.md`](checklists/publishing-checklist.md)
+[Unity Game Publishing Checklist](checklists/publishing-checklist.md)
 
 ## Complete Guide
 
-For a detailed comparison of Unity game templates and practical advice for choosing a template for a reskin project, read the full guide:
+For a detailed comparison of Unity game templates and practical advice for choosing a template for a reskin project, read:
 
 **Top 5 Unity Game Templates: Reskin and Publish**
 
