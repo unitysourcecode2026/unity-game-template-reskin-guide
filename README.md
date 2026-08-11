@@ -1,5 +1,9 @@
 # Unity Game Template Reskin & Publishing Guide
 
+<p align="center">
+  <img src="hero-banner.webp" alt="Unity Game Template Reskin and Publishing Guide">
+</p>
+
 A practical collection of guides and checklists for developers who want to choose, reskin, optimize, and publish Unity game templates.
 
 ## What's Included
